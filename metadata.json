@@ -1,0 +1,7 @@
+{
+  "name": "AirLink",
+  "description": "A lightweight, Apple-inspired utility to manage AirPods connections, view battery life, and control audio modes on non-Apple devices.",
+  "requestFramePermissions": [
+    "bluetooth"
+  ]
+}
